@@ -1,0 +1,108 @@
+* {
+  margin: 0;
+  box-sizing: border-box;
+}
+
+body {
+  width: 1300px;
+}
+
+.navbar {
+  width: 1300px;
+  height: 100px;
+  background-image: url("../img/pattern.png");
+  background-color: rgb(98, 160, 248);
+  background-repeat: repeat;
+  background-size: 390px;
+}
+
+.logo {
+  width: 200px;
+  margin-left: 130px;
+  margin-top: 40px;
+}
+
+.container {
+  width: 1035px;
+  margin: 0 auto;
+}
+
+h1 {
+font-size: 39px;
+margin-top: 15px;
+}
+
+.author {
+ font-size: 18px;
+ color: rgb(153, 153, 153);
+}
+
+.author span {
+  color: rgb(137, 197, 234);
+}
+
+.date {
+  font-size: 13px;
+  color: rgb(153, 153, 153);
+  margin-bottom: 20px;
+}
+
+.description-photo {
+  font-size: 12px;
+}
+
+.evidenziatore {
+  background-color: rgb(255, 254, 84);
+}
+
+.space {
+  margin-top: 25px;
+}
+
+.space ul {
+  padding: 0;
+  margin-left: 20px;
+}
+
+.table-title {
+  width: 210px;
+  text-align: left;
+  color: white;
+}
+
+.blue {
+  background-color: rgb(80, 168, 224);
+}
+
+.lightblue {
+  background-color: rgb(188, 227, 240);
+}
+
+.interest {
+  color: rgb(134, 134, 134);
+  font-weight: 600;
+  font-size: 17px;
+}
+
+.monitor {
+  background-image: url("../img/monitor.jpg");
+  width: 230px;
+  height: 180px;
+  background-size: cover;
+  margin-top: 10px;
+}
+
+.graph {
+  background-image: url("../img/graph.jpg");
+  width: 230px;
+  height: 180px;
+  background-size: cover;
+  margin-top: 10px;
+}
+
+.title-image {
+  color: white;
+  font-size: 21px;
+  font-weight: 600;
+  padding: 10px;
+}
